@@ -5,4 +5,6 @@
 - Op de homepagina moet er nog iets leuks komen i dunno wat.
 
 O ja en we moeten een betere naam bedenken voor de site dus kom maar met ideeën :)
-^Jort
+
+
+- Jort
